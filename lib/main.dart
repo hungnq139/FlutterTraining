@@ -16,6 +16,8 @@ class RandomWords extends StatefulWidget {
   _RandomWordsState123 createState() => _RandomWordsState123();
 }
 
+
+//lab 1
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
